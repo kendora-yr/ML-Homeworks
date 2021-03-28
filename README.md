@@ -19,6 +19,4 @@ Some python libraries
 ```
 ---
 
-### Certification
-
 
